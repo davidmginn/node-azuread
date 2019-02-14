@@ -1,0 +1,16 @@
+{
+  "name": "Sample_Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-bearer-token": "^2.2.0",
+    "node-fetch": "^2.3.0",
+    "passport": "^0.4.0",
+    "passport-azure-ad": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
